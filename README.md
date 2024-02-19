@@ -5,3 +5,5 @@ With the use of various machine learning algorithms, such as logistic regression
 Moreover, the visually appealing touch of exciting tags and icons makes the project easy to navigate and comprehend. This project is a significant milestone in the field of machine learning, and I am confident that it will change the way we approach loan approval and transform the financial industry.
 
 I believe that this project is a game-changer, and I'm excited to share the results with you all. So, stay tuned for more updates, and let's revolutionize the #loanapprovalprocess together! 💪
+
+
